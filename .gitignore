@@ -41,3 +41,6 @@ drm-proxy-server.py
 test-*.js
 test-*.py
 start-mediaflow.sh
+
+# artefact outil BFG
+..bfg-report/
